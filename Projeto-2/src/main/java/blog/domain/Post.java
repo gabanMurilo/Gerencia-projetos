@@ -69,4 +69,8 @@ public class Post {
     public void setDatePosted(Date datePosted) {
         this.datePosted = datePosted;
     }
+
+    public void setId(long id) {
+        this.id = id;
+    }
 }
